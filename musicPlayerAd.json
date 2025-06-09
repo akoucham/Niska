@@ -20,7 +20,7 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -93,9 +93,27 @@
       "download": "+10K"
     },
     {
+      "name": "Music Rihanna & Lyrics Offline",
+      "packageName": "com.avamax.themotto.gouss",
+      "icon": "https://play-lh.googleusercontent.com/oeFYm7t9Oi-VCBu9KQtQdtvWVKzD_fo7vhgwQFyqteVddNOwbS-MBMe5_T6aZ2dybIg=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music Shakira & Lyrics Offline",
+      "packageName": "com.enesbatur.dolunay.gouss",
+      "icon": "https://play-lh.googleusercontent.com/OjaZnrKFOJF4ok9_aRQJ19Z79D8UoV_LW_54_sWsaqzzgrNagLwH3GWkX1W-09WOIds=w240-h480",
+      "download": "+50k"
+    },
+    {
       "name": "Aya nakamura & Lyrics Offline",
       "packageName": "com.ayanakmura.degaine.gouss",
       "icon": "https://play-lh.googleusercontent.com/qc1HLMkYhnrBk8lJStfJ7g_yIugfJs1GyNCG-JOMk1iVPemjA6iJeBVLHd6d42ieLLQ=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Amel Bent & Lyrics Offline",
+      "packageName": "com.amelbent.vivante.gouss",
+      "icon": "https://play-lh.googleusercontent.com/lGWDQeioDinsuT5pQpuAMcLgY8nCumUiEN_cnEsjiFlFMMf1cTzYrbMKDuVwtH9zAw=w240-h480",
       "download": "+50k"
     },
     {
@@ -103,6 +121,24 @@
       "packageName": "com.miaboyka.mamama.gouss",
       "icon": "https://play-lh.googleusercontent.com/aj0b-raTCYHyf2Iy7gfr0VYPsCWr4dRJmu-wrfG5RT1ukJ3zgadsL96ujx0pCbdNEZQ=w240-h480",
       "download": "+100K"
+    },
+    {
+      "name": "Music Wejdene & Lyrics Offline",
+      "packageName": "com.wejdene.arrogante.gouss",
+      "icon": "https://play-lh.googleusercontent.com/WYHgIiL7lrmlRf5C55ZrtMpl49r0zyKGByMiwnBXc7XQ5x8mhpE3E0d3bwmX044tNIQ=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Marwa Laoud & Lyrics Offline",
+      "packageName": "com.loud.marwa.gouss",
+      "icon": "https://play-lh.googleusercontent.com/pIcm0SJamvcM1Ml93Z5j1PUSJ_eUVdRdmMjM-TWk5h5PlbXbslX3S5E3gGd1-qbbgRZ_=w240-h480",
+      "download": "+10K"
+    },
+      {
+      "name": "Eva Queen & Lyrics Offline",
+      "packageName": "com.eva.oxegene.gouss",
+      "icon": "https://play-lh.googleusercontent.com/nzkfo9Xg3mJwPNIVbK1_EJfJKBt_JNY0peFlO1xWxS0CilIPVgvJX5HPknBi6JGh3Q=w240-h480",
+      "download": "+10K"
     },
     {
       "name": "Music Imen Es & Lyrics Offline",
@@ -129,6 +165,12 @@
       "download": "+50k"
     },
     {
+      "name": "Music 13 Organisé & Lyrics",
+      "packageName": "com.treize.organise.gouss",
+      "icon": "https://play-lh.googleusercontent.com/w9dr8jxQuxwBck__2Re4UKt2FdaDiCSGl2u7djF3q79MYyDU8rcpHZZIdNDZF8Pi-Vs=w240-h480",
+      "download": "+50k"
+    },
+    {
       "name": "Music NAZA & Lyrics Offline",
       "packageName": "com.naza.agogo.gouss",
       "icon": "https://play-lh.googleusercontent.com/2E9ZrEH95lC2OiovLxfeAMHsgCDijjgC5BNoaOAXiJzhWMQEn_8JUBsRJ-brAQHXqWU=w240-h480",
@@ -151,6 +193,24 @@
       "packageName": "com.fally.ipuppa.gouss",
       "icon": "https://play-lh.googleusercontent.com/Ic_RiNNUCbAnm935MZx_zTpzjfonypZaIegPmL8B9jv1FyLeZ7hBUcpT8p3ctf5kiRs=w240-h480",
       "download": "+50K"
+    },
+    {
+      "name": "Music Mlindo & Lyrics Offline",
+      "packageName": "com.thevoca.listmlindo.gouss",
+      "icon": "https://play-lh.googleusercontent.com/n5Pb9-NmHGRWf0Rmlvt8TMGuVDjGtgc-lHBFvsXF5-Go1C85M7XSVOe6TYgB5flaPDI=w240-h480",
+      "download": "+50K"
+    },
+	{
+      "name": "Mark Forster & Lyrics Offline",
+      "packageName": "com.markfos.terchone.gouss",
+      "icon": "https://play-lh.googleusercontent.com/gmO21JGyfcKMpdoRfnTXpQiZ0A8wzK0OBYK3spRLk5KmU0hR0bmofHyhgnrpk8BGELg=w240-h480",
+      "download": "+10K"
+    },
+	{
+      "name": "Leo Rojas & Lyrics Offline",
+      "packageName": "com.leorojas.amigos.gouss",
+      "icon": "https://play-lh.googleusercontent.com/0zgn1dxydvPhrOCdLNcyfYxliELcB2B3UFCQlMExKGIQihoH3vfg1HKN6gvTpYojKw=w240-h480",
+      "download": "+10K"
     },
     {
       "name": "Kendji Girac & Lyrics Offline",
